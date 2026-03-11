@@ -1,0 +1,32 @@
+## Build directories
+/build/
+/**/build/
+
+## CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+compile_commands.json
+.cmake/
+
+## IDE / editor
+.vscode/
+.idea/
+.cache/
+.clangd/
+
+## OS files
+.DS_Store
+
+## Binaries and objects
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+a.out
+
+## Logs
+*.log
+

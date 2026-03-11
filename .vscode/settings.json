@@ -3,5 +3,8 @@
         "string": "cpp",
         "algorithm": "cpp",
         "future": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "/Users/tanchangyue/comp/extra_currecular/Projects/Learn-Cpp/cpp_practice/HFT",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }

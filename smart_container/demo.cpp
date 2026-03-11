@@ -4,7 +4,7 @@
 #include <numeric>
 #include <cassert>
 
-#include "SmartContatiner.h"
+#include "SmartContainer.h"
 
 // Helper class for testing move semantics and construction
 class TestObject {

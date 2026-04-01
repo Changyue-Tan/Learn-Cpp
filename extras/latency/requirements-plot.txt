@@ -1,0 +1,3 @@
+# Optional deps for plot_results.py (stress test result plotting)
+matplotlib>=3.5
+pandas>=1.3
